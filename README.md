@@ -17,3 +17,7 @@ This project was made as a part of a summer internship. Main objective was to le
 ![help.html](https://github.com/user-attachments/assets/b91adb29-bc41-4da0-a2ea-a2a9ce3b129a)
 ![index.html](https://github.com/user-attachments/assets/10ad68ef-f36b-4688-a6e0-54f3118730b3)
 ![tips.html](https://github.com/user-attachments/assets/f39bdca4-dbaa-47e3-9894-525c30985021)
+
+## Authors
+
+[Alex Survilov](https://github.com/No1CareZ)
