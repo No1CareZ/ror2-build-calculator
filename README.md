@@ -12,10 +12,13 @@ This project was made as a part of a summer internship. Main objective was to le
 * `jChart`
 
 ## Pages:
-
+### calc.html
 ![calc.html](https://github.com/user-attachments/assets/64aa6926-16a3-4bb1-b2c0-a2c87b7b5fc5)
+### help.html
 ![help.html](https://github.com/user-attachments/assets/b91adb29-bc41-4da0-a2ea-a2a9ce3b129a)
+### index.html
 ![index.html](https://github.com/user-attachments/assets/10ad68ef-f36b-4688-a6e0-54f3118730b3)
+### tips.html
 ![tips.html](https://github.com/user-attachments/assets/f39bdca4-dbaa-47e3-9894-525c30985021)
 
 ## Authors
